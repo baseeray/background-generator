@@ -1,10 +1,10 @@
 body {
-    font: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     /* text-transform: uppercase; */
     top: 15%;
-    background: linear-gradient(to right, rgb(0, 255, 34) , #00c3ff);
+    background: linear-gradient(to right, rgb(0, 14, 204) , rgb(204, 0, 14));
 }
 
 h1 {
